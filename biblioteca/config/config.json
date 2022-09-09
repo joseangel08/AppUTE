@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "12345",
+    "database": "desarrollo",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorAliases": false
+  },
+  "staging": {
+    "username": "desarrollo",
+    "password": "desarrollo",
+    "database": "desarrollo",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorAliases": false
+  },
+  "production": {
+    "username": "desarrollo",
+    "password": "desarrollo",
+    "database": "desarrollo",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorAliases": false
+  }
+}
